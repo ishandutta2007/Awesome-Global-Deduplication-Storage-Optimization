@@ -10,7 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" /></a>
@@ -69,9 +69,9 @@ The following SaaS and managed cloud platforms deliver automated data reduction,
 
 ## 💻 Open-Source GitHub Projects
 
-Community-developed storage management engines, deduplicating file systems, and archival backup tools. Repositories are ranked descending by GitHub star count. Each star badge links directly to the project's stargazers community.
+Community-developed storage management engines, deduplicating file systems, and archival backup tools. Repositories are ranked descending by GitHub Stars_Count. Each Stars_Badge links directly to the project's stargazers community.
 
-| Project | Star Badge | Description | Primary Languages / Architecture |
+| Project | Stars_Badge | Description | Primary Languages / Architecture |
 |---|---|---|---|
 | **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | The quintessential cloud storage sync tool ("rsync for cloud storage"). Supports over 70 cloud storage providers with automated multi-tier transfers, chunker backends, client-side deduplication utilities (`rclone dedupe`), and bandwidth-optimized synchronizations. | Go / CLI & Mount Daemon |
 | **[Restic](https://github.com/restic/restic)** | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Secure, fast, and robust backup program utilizing content-defined chunking (CDC) via Rabin fingerprints to deliver global, block-level deduplication across historical snapshots. Encrypted with AES-256 in counter mode. | Go / Content-Defined Chunking |
@@ -91,7 +91,7 @@ Community-developed storage management engines, deduplicating file systems, and 
 
 For engineers, systems researchers, and storage architects studying data reduction algorithms (Content-Defined Chunking, sliding-window hashing, fingerprint indexing, and garbage collection):
 
-| Resource | Star Badge | Description |
+| Resource | Stars_Badge | Description |
 |---|---|---|
 | **[awesome_storage_papers](https://github.com/yzr95924/awesome_storage_papers)** | [![Stars](https://img.shields.io/github/stars/yzr95924/awesome_storage_papers?style=social&color=white)](https://github.com/yzr95924/awesome_storage_papers/stargazers) | Curated catalog of peer-reviewed computer science literature covering CDC chunking algorithms (FastCDC, Gear, RapidCDC), index cache management, secondary storage garbage collection, and NVM-accelerated deduplication. |
 
@@ -120,7 +120,7 @@ Your support keeps open-source and independent benchmarking thriving!
 We welcome additions, updates, and benchmark reports from the community!
 
 1. **Fork** this repository.
-2. **Add or update** entries in `README.md` maintaining table formatting, verified pricing data, and social star badges linked to stargazers.
+2. **Add or update** entries in `README.md` maintaining table formatting, verified pricing data, and social Stars_Badges linked to stargazers.
 3. Keep product and software descriptions objective, concise, and focused on storage efficiency, tiering mechanisms, or deduplication algorithms.
 4. **Submit a Pull Request** detailing your changes.
 
@@ -131,3 +131,12 @@ We welcome additions, updates, and benchmark reports from the community!
 - This list is independently curated for educational and architectural reference purposes.
 - Always test and benchmark deduplication ratios and retrieval latency against your organization's specific workloads. Write-heavy relational database engines (e.g., PostgreSQL, SQL Server, Oracle) and encrypted blobs typically achieve low deduplication ratios, whereas virtual machine disks, container images, and software deployment shares frequently achieve 70–90% reduction.
 - All pricing, corporate market caps, and free trial terms are subject to change by their respective vendors. Verify current terms on official provider portals before signing enterprise agreements.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Global-Deduplication-Storage-Optimization_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Global-Deduplication-Storage-Optimization_growth.svg">
+  </picture>
+</a>
