@@ -1,8 +1,29 @@
-# Awesome Global Deduplication & Storage Optimization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-> A curated directory of enterprise SaaS platforms, cloud services, and open-source software for **Global Deduplication, Storage Optimization, Data Tiering, and Intelligent Data Reduction**.
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Global Deduplication & Storage Optimization Banner" width="100%" />
+</p>
 
-**Last updated: March 2026**
+# 🚀 Awesome Global Deduplication & Storage Optimization
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization?style=flat-square&logo=github" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 📚 A curated directory of enterprise SaaS platforms, cloud services, and open-source software for **Global Deduplication, Storage Optimization, Data Tiering, and Intelligent Data Reduction**.
+
+📅 **Last updated: March 2026**
+
+</div>
+
+---
 
 Enterprise data volumes are expanding exponentially—driven by unstructured media, database archives, and multi-terabyte AI/ML model checkpoints. Managing secondary storage and long-term retention requires advanced **block- and file-level deduplication (inline & post-process)**, **content-defined chunking (CDC)**, and **automated lifecycle storage tiering** from high-performance NVMe down to deep-archive tape and object storage.
 
@@ -10,23 +31,25 @@ This repository tracks the leading commercial SaaS platforms and high-performanc
 
 ---
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Storage Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Algorithmic Foundations & Literature](#algorithmic-foundations--literature)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📖 Algorithmic Foundations & Literature](#-algorithmic-foundations--literature)
+- [📈 Star History](#-star-history)
+- [💖 Support & Community](#-support--community)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer](#️-disclaimer)
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global data deduplication and storage optimization market is valued at approximately **$14.2 billion** and projected to exceed **$33.7 billion by 2032** (expanding at a ~10.1% CAGR), set against a broader data storage and management ecosystem approaching **$300+ billion**. The sector is **moderately fragmented**: primary hyper-scalers (Microsoft Azure, AWS) and legacy infrastructure titans (Dell Technologies, NetApp, Pure Storage) dominate underlying block/object tiers and enterprise hardware appliances, while specialized scale-ups (Cohesity, Druva, Komprise, Wasabi) command high-margin, hybrid cloud data management, global deduplication vaults, and independent multi-cloud tiering layers.
 
 ---
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 The following SaaS and managed cloud platforms deliver automated data reduction, global cross-workload deduplication, and policy-driven tiering. Products are sorted descending by company size (market capitalization or latest enterprise valuation).
 
@@ -44,7 +67,7 @@ The following SaaS and managed cloud platforms deliver automated data reduction,
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Community-developed storage management engines, deduplicating file systems, and archival backup tools. Repositories are ranked descending by GitHub star count. Each star badge links directly to the project's stargazers community.
 
@@ -64,7 +87,7 @@ Community-developed storage management engines, deduplicating file systems, and 
 
 ---
 
-## Algorithmic Foundations & Literature
+## 📖 Algorithmic Foundations & Literature
 
 For engineers, systems researchers, and storage architects studying data reduction algorithms (Content-Defined Chunking, sliding-window hashing, fingerprint indexing, and garbage collection):
 
@@ -74,7 +97,25 @@ For engineers, systems researchers, and storage architects studying data reducti
 
 ---
 
-## How to Contribute
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Global-Deduplication-Storage-Optimization&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community
+
+Thank you so much for exploring this repository! If this curated list helped you identify storage cost-savings, explore deduplication architectures, or select tiering tools for your infrastructure:
+
+- ⭐ **Star this repository** to help others discover it and follow along with updates.
+- 🍴 **Fork and share** it with fellow systems architects, DevOps engineers, and storage admins.
+- ☕ **Buy me a coffee / Sponsor**: If you find continuous value in this work and want to support ongoing curation and benchmarks, consider becoming a sponsor via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps open-source and independent benchmarking thriving!
+
+---
+
+## 🤝 How to Contribute
 
 We welcome additions, updates, and benchmark reports from the community!
 
@@ -85,7 +126,7 @@ We welcome additions, updates, and benchmark reports from the community!
 
 ---
 
-## Disclaimer
+## ⚖️ Disclaimer
 
 - This list is independently curated for educational and architectural reference purposes.
 - Always test and benchmark deduplication ratios and retrieval latency against your organization's specific workloads. Write-heavy relational database engines (e.g., PostgreSQL, SQL Server, Oracle) and encrypted blobs typically achieve low deduplication ratios, whereas virtual machine disks, container images, and software deployment shares frequently achieve 70–90% reduction.
