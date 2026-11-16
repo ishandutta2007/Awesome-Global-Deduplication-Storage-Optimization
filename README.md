@@ -69,7 +69,7 @@ The following SaaS and managed cloud platforms deliver automated data reduction,
 
 ## 💻 Open-Source GitHub Projects
 
-Community-developed storage management engines, deduplicating file systems, and archival backup tools. Repositories are ranked descending by GitHub Stars_Count. Each Stars_Badge links directly to the project's stargazers community.
+Community-developed storage management engines, deduplicating file systems, and archival backup tools. Repositories are ranked descending by GitHub_Stars_Count. Each Stars_Badge links directly to the project's stargazers community.
 
 | Project | Stars_Badge | Description | Primary Languages / Architecture |
 |---|---|---|---|
