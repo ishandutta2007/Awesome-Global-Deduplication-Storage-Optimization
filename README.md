@@ -1,6 +1,6 @@
 # Awesome-Global-Deduplication-Storage-Optimization
 
-# Top Global Deduplication & Storage Optimization Ecosystem
+## Top Global Deduplication & Storage Optimization Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Data Reduction, Tiering & Self-Hosted Storage Efficiency Engines*  
